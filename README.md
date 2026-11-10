@@ -24,7 +24,7 @@ class Yusluv:
     def __init__(self):
         self.name = "YUSLUV"
         self.role = "Data Science & AI Developer"
-        self.languages = ["Python", "JavaScript"]
+        self.languages = ["Python"]
         self.interests = [
             "Data Science",
             "Artificial Intelligence",
